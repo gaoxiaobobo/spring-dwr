@@ -8,4 +8,4 @@ spring-dwr
 >http://localhost:8080/dwr/sendMsg.jsp
 
 ### 接收消息页面
->http://localhost:8080/dwr/sendMsg.jsp
+>http://localhost:8080/dwr/showMsg.jsp

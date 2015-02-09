@@ -3,6 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+    <title>接收推送消息</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <script type="text/javascript" src="dwr/util.js"></script>
     <script type="text/javascript" src="dwr/engine.js"></script>
@@ -18,7 +19,7 @@
         }
 
     </script>
-    <title>Insert title here</title>
+
 </head>
 <body>
 <div id="message" style="width: 200px;height: 200px;border: 1px solid red ; text-align: center; padding: 5px;"></div>

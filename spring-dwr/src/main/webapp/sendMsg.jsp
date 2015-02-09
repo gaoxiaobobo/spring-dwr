@@ -4,6 +4,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>发送消息</title>
     <script type="text/javascript" src="dwr/util.js"></script>
     <script type="text/javascript" src="dwr/engine.js"></script>
     <script type="text/javascript" src="dwr/interface/SendMsg.js"></script>
@@ -29,7 +30,6 @@
             });
         });
     </script>
-    <title>Insert title here</title>
 </head>
 <body>
 <input type="text" id="msg"  />
